@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BJ10830_За·Д_Б¦°ц {
+public class BJ10830_Г‡Г В·Г„_ГЃВ¦В°Г¶ {
 
 	static int N;
 	public static void main(String[] args) throws IOException {
